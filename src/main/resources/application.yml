@@ -1,0 +1,12 @@
+
+logging:
+  level:
+    com.vickllny: info
+server:
+  servlet:
+    context-path: /demo
+spring:
+  application:
+    name: /demo
+  thymeleaf:
+    cache: false
